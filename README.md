@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redux, Vue**
 
-- 📫 How to reach me **buddyzishu32@gmail.com**
+- 📫 How to reach me **zishan.ahmad2765@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
