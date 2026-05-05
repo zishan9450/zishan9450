@@ -4,8 +4,6 @@
 ### Full Stack Developer · India 🇮🇳
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zishan9450&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/zishan9450)
-[![Instagram](https://img.shields.io/badge/@_zishan__2221-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_zishan_2221)
-[![LeetCode](https://img.shields.io/badge/buddyzishu32-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/buddyzishu32)
 [![Email](https://img.shields.io/badge/zishan.ahmad2765@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zishan.ahmad2765@gmail.com)
 
 </div>
